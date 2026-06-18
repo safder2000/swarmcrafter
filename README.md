@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" width="96" alt="SwarmCrafter icon" />
+  <img src="icon.png" width="120" alt="SwarmCrafter icon" />
 </p>
 
 <h1 align="center">SwarmCrafter</h1>
